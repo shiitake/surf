@@ -2,6 +2,17 @@ surf - simple webkit-based browser
 ==================================
 surf is a simple Web browser based on WebKit/GTK+.
 
+This is my fork of surf - that I'm running on my debian box.  
+
+Debian specific dependencies: 
+* libwebkit2gtk-4.0-dev
+* libgcr-3-dev
+
+Patches that I've installed:
+* tbd
+
+
+
 Requirements
 ------------
 In order to build surf you need GTK+ and Webkit/GTK+ header files.
