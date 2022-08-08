@@ -9,7 +9,7 @@ Debian specific dependencies:
 * libgcr-3-dev
 
 Patches that I've installed:
-* tbd
+* I've update the config to use XDG Base Directory spec
 
 
 
